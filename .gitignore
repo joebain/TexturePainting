@@ -1,0 +1,58 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Library*/
+Builds/
+Logs/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.blend?
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+
+# ============ #
+# other        #
+# ============ #
+*.swp
+*.swo
+*.prof
+*~
+*.zip
+
+*.unitypackage
+
+todo*
+
+# Wwise
+.cache/
+
+# Intellija Rider
+.idea
